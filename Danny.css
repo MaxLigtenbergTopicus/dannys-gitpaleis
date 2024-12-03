@@ -4,6 +4,7 @@ html {
 
 body {
     background-color:gold;
+    margin-left: 32px;
 }
 
 img {
@@ -14,5 +15,17 @@ img {
 
 h1 {
     text-align: center;
-    font-size: 120px;
+    font-size: 100px;
+    margin-top: 8px;
+    margin-bottom: 8px;
+}
+
+.div1 {
+    width: 50%;
+    float: left;
+}
+
+.div2 {
+    width: 50%;
+    float:  right;
 }
