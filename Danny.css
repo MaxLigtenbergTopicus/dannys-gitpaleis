@@ -20,6 +20,26 @@ h1 {
     margin-bottom: 8px;
 }
 
+a:link {
+    color: inherit;
+  }
+  
+  a:visited {
+    color: inherit;
+  }
+  
+  a:hover {
+    color: green;
+  }
+  
+  a:active {
+    color: inherit;
+  }
+  
+  a:link, a:visited {
+    text-decoration: none;
+  }
+
 .div1 {
     width: 50%;
     float: left;
